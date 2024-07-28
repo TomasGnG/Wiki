@@ -16,6 +16,7 @@ worlds:
 ## Examples
 
 ### Adding a world to the whitelist
+{collapsible="true"}
 
 Let's say you want to add your world `TestWorld` to the whitelist.<br />
 To reach your goal, you just have to add the following line to you `worlds` section.
@@ -28,16 +29,17 @@ worlds:
 ```
 
 ### Removing a world from the whitelist
+{collapsible="true"}
 
 You previously added your `TestWorld` to the whitelist, and now you want to remove it.
 To accomplish this, you have to remove the line with the world name (in this case: `TestWorld`)
 
+The section before removing:
 ```yaml
 worlds:
   - world
   - TestWorld
 ```
-{collapsible="true" collapsed-title="Section before removing"}
 
 The section should look like this after removing the line:
 ```yaml
