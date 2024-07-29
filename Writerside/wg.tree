@@ -9,6 +9,7 @@
     <toc-element topic="welcome.md"/>
     <toc-element topic="DynamicSeasons.md">
         <toc-element topic="Features.md">
+            <toc-element topic="PlaceholderAPI-Support.md"/>
             <toc-element topic="Updater.md"/>
             <toc-element topic="World-whitelist.md"/>
         </toc-element>
