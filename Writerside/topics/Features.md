@@ -6,3 +6,4 @@
 - [](World-whitelist.md)
 - [](PlaceholderAPI-Support.md)
 - [](Weather.md)
+- [](RandomTickSpeed.md)
