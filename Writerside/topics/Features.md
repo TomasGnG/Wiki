@@ -5,3 +5,4 @@
 - [](Updater.md)
 - [](World-whitelist.md)
 - [](PlaceholderAPI-Support.md)
+- [](Weather.md)

@@ -5,9 +5,11 @@
 
 > If [PlaceholderAPI](https://www.spigotmc.org/resources/6245) is not installed, then this feature will be disabled.
 
+{style="warning"}
+
 ## How to use it?
 
-This plugin offers you two placeholder that you can use ingame:
+This plugin offers you two placeholders that you can use ingame:
 - **duration**: This shows how much time is left for the next season change.
 - **currentseason**: This shows the current season.
 
@@ -34,7 +36,7 @@ placeholderName: testduration
 #### Format
 
 Now this is a bit complicated, but dont worry I will explain it to you.
-The duration placeholders output is in seconds and with the format you can
+The duration placeholder output is in seconds and with the format you can
 convert the seconds into hours, minutes and seconds. 
 
 #### Examples
@@ -105,3 +107,5 @@ placeholders:
 {collapsible="true" collapsed-title="Updated section"}
 
 > The text replacement does not take any color codes. It's just a plain text replacement without any formatting.
+
+{style="warning"}
