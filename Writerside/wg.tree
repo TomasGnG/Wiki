@@ -14,6 +14,7 @@
             <toc-element topic="World-whitelist.md"/>
             <toc-element topic="Weather.md"/>
             <toc-element topic="RandomTickSpeed.md"/>
+            <toc-element topic="CreatureAttributes.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>

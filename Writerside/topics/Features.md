@@ -7,3 +7,4 @@
 - [](PlaceholderAPI-Support.md)
 - [](Weather.md)
 - [](RandomTickSpeed.md)
+- [](CreatureAttributes.md)
