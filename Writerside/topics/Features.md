@@ -9,3 +9,4 @@
 - [](RandomTickSpeed.md)
 - [](CreatureAttributes.md)
 - [](AnimalSpawning.md)
+- [](AnimalGrowing.md)
