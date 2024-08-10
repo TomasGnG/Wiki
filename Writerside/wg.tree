@@ -7,8 +7,8 @@
                  start-page="welcome.md">
 
     <toc-element topic="welcome.md"/>
-    <toc-element topic="DynamicSeasons.md">
-        <toc-element topic="Features.md">
+    <toc-element topic="DynamicSeasons.topic">
+        <toc-element topic="Features.topic">
             <toc-element topic="Updater.md"/>
             <toc-element topic="World-whitelist.md"/>
             <toc-element topic="PlaceholderAPI-Support.md"/>

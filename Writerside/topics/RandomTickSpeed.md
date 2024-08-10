@@ -14,7 +14,7 @@ randomTickSpeed:
 ```
 
 > RandomTickSpeed is an existing gamerule which you can set by yourself.
-> However, this [plugin](DynamicSeasons.md) only sets it for the [whitelisted worlds](World-whitelist.md).
+> However, this [plugin](DynamicSeasons.topic) only sets it for the [whitelisted worlds](World-whitelist.md).
 
 ### What does the value say?
 

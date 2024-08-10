@@ -4,6 +4,9 @@
 > the plugin to the latest version without downloading 
 > it manually from the SpigotMC website.
 
+{title="Introduction"}
+
+
 ## How to use it?
 
 If there is an update available, you will see a message in your console:

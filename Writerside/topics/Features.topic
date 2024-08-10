@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Features" id="Features">
+
+    <section-starting-page>
+        <title>List of all features</title>
+        <description>Discover all the features available in the DynamicSeasons plugin.</description>
+
+        <misc>
+            <cards>
+                <title>Not season specific</title>
+
+                <a href="Updater.md">Updater</a>
+                <a href="World-whitelist.md"></a>
+                <a href="PlaceholderAPI-Support.md"></a>
+            </cards>
+            <cards>
+                <title>Season specific</title>
+
+                <a href="Weather.md"></a>
+                <a href="RandomTickSpeed.md"></a>
+                <a href="CreatureAttributes.md"></a>
+                <a href="AnimalSpawning.md"></a>
+                <a href="AnimalGrowing.md"></a>
+                <a href="PreventCropGrowing.md"></a>
+            </cards>
+        </misc>
+    </section-starting-page>
+</topic>
