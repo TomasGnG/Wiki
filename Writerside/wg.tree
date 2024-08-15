@@ -20,6 +20,7 @@
             <toc-element topic="PreventCropGrowing.md"/>
             <toc-element topic="PotionEffects.md"/>
             <toc-element topic="LootDrops.md"/>
+            <toc-element topic="XPBonus.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>
