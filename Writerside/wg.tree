@@ -22,6 +22,7 @@
             <toc-element topic="LootDrops.md"/>
             <toc-element topic="XPBonus.md"/>
             <toc-element topic="Particles.md"/>
+            <toc-element topic="BossSpawning.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>
