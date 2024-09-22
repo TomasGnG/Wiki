@@ -9,7 +9,6 @@
     <toc-element topic="welcome.md"/>
     <toc-element topic="DynamicSeasons.topic">
         <toc-element topic="Features.topic">
-            <toc-element topic="CommandExecution.md"/>
             <toc-element topic="Updater.md"/>
             <toc-element topic="World-whitelist.md"/>
             <toc-element topic="PlaceholderAPI-Support.md"/>
@@ -24,6 +23,7 @@
             <toc-element topic="XPBonus.md"/>
             <toc-element topic="Particles.md"/>
             <toc-element topic="BossSpawning.md"/>
+            <toc-element topic="CommandExecution.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>
